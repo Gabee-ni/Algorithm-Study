@@ -64,7 +64,7 @@
 |------|------|------|------|--------|--------|--------|--------|--------|
 | 1주차 | 12/2 | 01. 배열 | [주몽](https://www.acmicpc.net/problem/1940) | ☑️ | ⬜ | ⬜ | ⬜ | ⬜ |
 |      |  |  | [프렌즈 블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | ☑️ | ⬜ | ⬜ | ⬜ | ⬜ |
-|      |  | 02. 문자열 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|      |  | 02. 문자열 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | ☑️ | ⬜ | ⬜ | ⬜ | ⬜ |
 |      |  |  | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 |      |  | 03. 리스트 &amp; Hash | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 |      |  |  | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
