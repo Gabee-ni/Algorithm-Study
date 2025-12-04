@@ -61,15 +61,25 @@
 
 **☑️ 완료** |  ⬜ **미완료**
 
-| 주차  | 날짜   | 유형             | 문제                                                                             | 김가빈 | 김민서 | 박수진 | 오찬혁 | 이가은 |
-| --- | ---- | -------------- | ------------------------------------------------------------------------------ | --- | --- | --- | --- | --- |
-| 1주차 | 12/2 | 01. 배열         | [주몽](https://www.acmicpc.net/problem/1940)                                     | ☑️  | ☑️  | ☑️  | ☑️  | ☑️  |
-|     |      |                | [프렌즈 블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)      | ☑️  | ☑️  | ☑️  | ☑️  | ☑️  |
-|     |      | 02. 문자열        | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)   | ☑️  | ☑️  | ☑️  | ☑️  | ☑️  |
-|     |      |                | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | ☑️  | ☑️  | ☑️  | ☑️  | ☑️  |
-|     |      | 03. 리스트 & Hash | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)      | ☑️  | ☑️  | ☑️  | ☑️  | ☑️  |
-|     |      |                | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)     | ☑️  | ☑️  | ☑️  | ☑️  | ☑️  |
-|     | 12/4 | 04. 스택         | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)       | ⬜   | ⬜   | ⬜   | ⬜   | ⬜   |
-|     |      |                | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | ⬜   | ⬜   | ⬜   | ⬜   | ⬜   |
-|     |      | 05. 큐         | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | ⬜   | ⬜   | ⬜   | ⬜   | ⬜   |
-|     |      |                | [큐2](https://www.acmicpc.net/problem/18258)                                       | ⬜   | ⬜   | ⬜   | ⬜   | ⬜   |
+| 주차  | 날짜    | 유형             | 문제                                                                             | 김가빈 | 김민서  | 박수진 | 오찬혁 | 이가은 |
+| --- | ----- | -------------- | ------------------------------------------------------------------------------ | ----- | ----- | ----- | ----- | ----- |
+| 1주차 | 12/2  | 01. 배열         | [주몽](https://www.acmicpc.net/problem/1940)                                     | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       |                | [프렌즈 블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)      | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       | 02. 문자열        | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)   | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       |                | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       | 03. 리스트 & Hash | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)      | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       |                | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)     | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     | 12/4  | 04. 스택         | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)       | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       |                | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       | 05. 큐          | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+|     |       |                | [큐2](https://www.acmicpc.net/problem/18258)                                    | ☑️    | ☑️    | ☑️    | ☑️    | ☑️    |
+| 2주차 | 12/8  | 06. 재귀         | [재귀의 귀재](https://www.acmicpc.net/problem/25501)                                |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       |                | [하노이의 탑](https://www.acmicpc.net/problem/11729)                                |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       | 07. 정렬         | [ATM](https://www.acmicpc.net/problem/11399)                                   |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       |                | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)      |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       | 08. 완전 탐색      | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)                            |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       |                | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)       |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     | 12/11 | 09. 그리디        | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)         |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       |                | [회의실 배정](https://www.acmicpc.net/problem/1931)                                 |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       | 10. 소수         | [소수](https://www.acmicpc.net/problem/2581)                                     |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
+|     |       |                | [에라토스테네스의 채](https://www.acmicpc.net/problem/2960)                             |   ⬜   |   ⬜   |  ⬜    |   ⬜   |   ⬜   |
