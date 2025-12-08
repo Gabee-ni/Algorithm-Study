@@ -1,5 +1,4 @@
 import java.util.HashSet;
-import java.util.Iterator;
 
 class Solution {
     static HashSet<Integer> numberSet = new HashSet<>();
@@ -17,12 +16,12 @@ class Solution {
         
         // 만들어진 숫자들 중 소수 개수 카운팅
         int answer = 0;
-        Iterator<Integer> it = numberSet.iterator();
-        while(it.hasNext()) {
-            if (isPrime(it.next())) {
+        for (int num : numberSet) {
+            if (isPrime(num)) {
                 answer++;
             }
         }
+
         // numberSet.clear()
         return answer;
     }
