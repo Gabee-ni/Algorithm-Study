@@ -82,13 +82,17 @@
 |       |       |                             | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)          | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       | 08. 완전 탐색               | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)                            | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |       |       |                             | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-| 3주차 | 12/15 | 09. 그리디                  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)               | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [회의실 배정](https://www.acmicpc.net/problem/1931)                                     | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 10. 소수                    | [소수](https://www.acmicpc.net/problem/2581)                                            | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [에라토스테네스의 채](https://www.acmicpc.net/problem/2960)                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 11. 최소공배수 & 최대공약수 | [최소공배수](https://www.acmicpc.net/problem/13241)                                     | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [최대공약수](https://www.acmicpc.net/problem/1850)                                      | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 12. 조합과 순열             | [N과 M(1)](https://www.acmicpc.net/problem/15649)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [N과 M(3)](https://www.acmicpc.net/problem/15651)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       | 13. DFS & BFS               | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|       |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+| 3주차 | 12/15 | 09. 그리디                  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [회의실 배정](https://www.acmicpc.net/problem/1931)                                     | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 10. 소수                    | [소수](https://www.acmicpc.net/problem/2581)                                            | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [에라토스테네스의 채](https://www.acmicpc.net/problem/2960)                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 11. 최소공배수 & 최대공약수 | [최소공배수](https://www.acmicpc.net/problem/13241)                                     | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [최대공약수](https://www.acmicpc.net/problem/1850)                                      | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 12. 조합과 순열             | [N과 M(1)](https://www.acmicpc.net/problem/15649)                                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [N과 M(3)](https://www.acmicpc.net/problem/15651)                                       | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       | 13. DFS & BFS               | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)                               | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|       | 12/18 | 14. 이진 탐색               | [기타 레슨](https://www.acmicpc.net/problem/2343)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [입국 심사](https://www.acmicpc.net/problem/3079)                                       | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       | 15. 다익스트라              | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                          | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|       |       |                             | [최소 비용 구하기](https://www.acmicpc.net/problem/1916)                                | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
