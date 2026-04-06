@@ -175,5 +175,7 @@
 |        |       |                             | [아기 상어](https://www.acmicpc.net/problem/16236)                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 | 17주차 | 3/30  |                             | [치킨 배달](https://www.acmicpc.net/problem/15686)                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
 |        |       |                             | [토마토](https://www.acmicpc.net/problem/7569)                                                 | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
-|        | 4/2   |                             | 미음 모양 판별하기                                                                             | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
-|        |       |                             | [안전 영역](https://www.acmicpc.net/problem/2468)                                              | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        | 4/2   |                             | 미음 모양 판별하기                                                                             | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+|        |       |                             | [안전 영역](https://www.acmicpc.net/problem/2468)                                              | ☑️     | ☑️     | ☑️     | ☑️     | ☑️     |
+| 18주차 | 4/7   |                             | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                                     | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
+|        |       |                             | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)                                 | ⬜     | ⬜     | ⬜     | ⬜     | ⬜     |
