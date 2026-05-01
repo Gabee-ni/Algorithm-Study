@@ -4,6 +4,43 @@
 
 ### 🕓 스터디 일정
 
+- **월요일 14:00 — 3문제**
+- **목요일 14:00 — 4문제**
+
+### 🎤 라이브 코테
+
+- 월요일: 새로운 문제 3개 + 누적 4개
+- 목요일: 새로운 문제 4개 + 누적 3개
+
+### 📌 제출 규칙
+
+- 본인 폴더에 문제 풀이 업로드
+  - 파일명: `스터디날짜_문제명` → `251202_주몽.java`
+  - 커밋 메시지: `feat: [이름][스터디날짜] 문제명 제출` → `feat: [이가은][251202] 주몽 제출`
+- PR 제목: `[이름][스터디날짜] N주차 제출` → `[이가은][251202] 1주차 제출`
+- 스터디 당일 **10:59:59까지 제출**
+- 벌금: **5000원**
+  <br/>
+
+---
+
+**☑️ 완료** | ⬜ **미완료**
+
+| 주차   | 날짜  | 유형                        | 문제                                                                                                       | 완료 |
+| ------ | ----- | --------------------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
+| week01  | 05/05 | 01. 해시                  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                         | ⬜     |
+|        |       |                             | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    | ⬜     |
+|        |       |                             | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                            | ⬜     |
+|        |       |                             | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                    | ⬜     |
+|        |       |                             | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                               | ⬜     |
+
+---
+
+<details>
+<summary>Algorithm-Study.v1</summary>
+  
+### 🕓 스터디 일정
+
 - **월요일 18:30 — 3챕터 (6문제)**
 - **목요일 18:30 — 2챕터 (4문제)**
 
@@ -181,3 +218,6 @@
 |        |       |                             | 36. [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)                                         | ☑️     |
 |        | 4/9   |                             | 37. [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936?language=java) | ⬜     |
 |        |       |                             | 38. [스타트링크](https://www.acmicpc.net/problem/5014)                                                     | ⬜     |
+
+</details>
+
