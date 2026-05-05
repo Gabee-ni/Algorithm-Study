@@ -28,11 +28,14 @@
 
 | 주차   | 날짜  | 유형                        | 문제                                                                                                       | 완료 |
 | ------ | ----- | --------------------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
-| week01  | 05/05 | 01. 해시                  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                         | ⬜     |
-|        |       |                             | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    | ⬜     |
-|        |       |                             | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                            | ⬜     |
-|        |       |                             | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                    | ⬜     |
-|        |       |                             | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                               | ⬜     |
+| week01  | 05/05 | 01. 해시                  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                         | ☑️     |
+|        |       |                             | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    | ☑️     |
+|        |       |                             | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                            | ☑️     |
+|        |       |                             | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                    | ☑️     |
+|        |       |                             | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                               | ☑️     |
+|        | 05/08 | 02. 정렬                  | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                    | ⬜     |
+|        |       |                             | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                               | ⬜     |
+|        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                 | ⬜     |
 
 ---
 
