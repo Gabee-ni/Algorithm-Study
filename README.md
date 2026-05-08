@@ -31,11 +31,19 @@
 | week01  | 05/05 | 01. 해시                  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                         | ☑️     |
 |        |       |                             | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    | ☑️     |
 |        |       |                             | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                            | ☑️     |
-|        |       |                             | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                    | ☑️     |
+|        |       |                             | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                     | ☑️     |
 |        |       |                             | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                               | ☑️     |
-|        | 05/08 | 02. 정렬                  | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                    | ⬜     |
-|        |       |                             | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                               | ⬜     |
-|        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                 | ⬜     |
+|        | 05/08 | 02. 정렬                     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                 | ☑️     |
+|        |       |                             | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                               | ☑️     |
+|        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                 | ☑️     |
+| week02  | 05/11 | 03. 완전탐색                | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                             | ⬜     |
+|        |       |                             | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                                | ⬜     |
+|        |       |                             | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                   | ⬜     |
+|        |       |                             | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/42578)        | ⬜     |
+|        | 05/14 |                             | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                 | ⬜     |
+|        |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                     | ⬜     |
+|        |       |                             | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                                 | ⬜     |
+|        |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                      | ⬜     |
 
 ---
 
