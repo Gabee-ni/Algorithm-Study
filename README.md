@@ -44,10 +44,14 @@
 |        |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                     | ☑️     |
 |        |       |                             | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                                 | ☑️     |
 |        |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                      | ☑️     |
-| week03 | 05/18 | 04. 스택/큐                 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                          | ⬜     |
-|        |       |                             | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                              | ⬜     |
-|        |       |                             | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                        | ⬜     |
-|        |       |                             | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)              | ⬜     |
+| week03 | 05/18 | 04. 스택/큐                 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                          | ☑️     |
+|        |       |                             | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                              | ☑️     |
+|        |       |                             | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                        | ☑️     |
+|        |       |                             | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)              | ☑️     |
+|        | 05/21 |                             | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                 | ⬜     |
+|        |       |                             | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                 | ⬜     |
+|        |       |                             | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                                 | ⬜     |
+|        |       |                             | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)      | ⬜     |
 
 ---
 
