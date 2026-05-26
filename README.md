@@ -39,7 +39,7 @@
 | week02 | 05/11 | 03. 완전탐색                 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                             | ☑️     |
 |        |       |                             | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                                | ☑️     |
 |        |       |                             | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                   | ☑️     |
-|        |       |                             | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)       | ☑️     |
+|        |       |                             | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)      | ☑️     |
 |        | 05/14 |                             | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                 | ☑️     |
 |        |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                     | ☑️     |
 |        |       |                             | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                                 | ☑️     |
@@ -52,10 +52,13 @@
 |        |       |                             | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                  | ☑️     |
 |        |       |                             | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                                  | ☑️     |
 |        |       |                             | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)     | ☑️     |
-| week04 | 05/26 | 05. DFS/BFS                 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                                 | ⬜     |
-|        |       |                             | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                            | ⬜     |
-|        |       |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                               | ⬜     |
-|        |       |                             | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)                          | ⬜     |
+| week04 | 05/26 | 05. DFS/BFS                 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                                 | ☑️     |
+|        |       |                             | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                           | ☑️     |
+|        |       |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                               | ☑️     |
+|        |       |                             | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)                          | ☑️     |
+|        | 05/29 |                             | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                                  | ☑️     |
+|        |       |                             | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                                 | ☑️     |
+|        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                                 | ☑️     |
 ---
 
 <details>
