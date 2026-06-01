@@ -47,18 +47,25 @@
 | week03 | 05/18 | 04. 스택/큐                 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                          | ☑️     |
 |        |       |                             | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                               | ☑️     |
 |        |       |                             | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                        | ☑️     |
-|        |       |                             | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)              | ☑️     |
+|        |       |                             | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)                  | ☑️     |
 |        | 05/21 |                             | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                  | ☑️     |
 |        |       |                             | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                  | ☑️     |
 |        |       |                             | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                                  | ☑️     |
-|        |       |                             | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)     | ☑️     |
+|        |       |                             | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)           | ☑️     |
 | week04 | 05/26 | 05. DFS/BFS                 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                                 | ☑️     |
-|        |       |                             | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                           | ☑️     |
+|        |       |                             | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                            | ☑️     |
 |        |       |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                               | ☑️     |
-|        |       |                             | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)                          | ☑️     |
+|        |       |                             | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)                            | ☑️     |
 |        | 05/29 |                             | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                                  | ☑️     |
 |        |       |                             | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                                 | ☑️     |
 |        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                                 | ☑️     |
+| week05 | 06/01 | 06. Heap.                   | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                                  | ⬜     |
+|        |       |                             | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)                               | ⬜     |
+|        |       |                             | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)                         | ⬜     |
+|        | 06/04 | 07. 그래프                    | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                            | ⬜    |
+|        |       |                             | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)                                 | ⬜     |
+|        |       |                             | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)                                 | ⬜     |
+
 ---
 
 <details>
