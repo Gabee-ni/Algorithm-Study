@@ -4,260 +4,125 @@
 
 ### 🕓 스터디 일정
 
-- **월요일 14:00 — 3문제**
-- **목요일 14:00 — 4문제**
+- **월요일 14:00 — 실전 모의 코테**
+- **목요일 14:00 — 코드 리뷰 및 라이브 코딩**
 
-### 🎤 라이브 코테
+### 🎯 월요일 — 실전 모의 코테
 
-- 월요일: 새로운 문제 3개 + 누적 4개
-- 목요일: 새로운 문제 4개 + 누적 3개
+- 처음 보는 문제로 진행 (문제 유형 사전 비공개)
+- **30분에 1문제씩** 각자 풀이 후 다 같이 토론
+- 회당 총 **3~4문제** 풀이
+
+### 🎤 목요일 — 코드 리뷰 및 라이브 코딩
+
+1. **과제** — 일주일간 총 **7문제** 풀어 PR로 제출
+   - 알고리즘 4개
+   - SQL 3개
+2. **라이브 코딩** — 문제마다 **사다리타기**로 담당자 배정 후 실시간 풀이
+3. **복습** — 이번 주 과제와 **동일 유형의 새로운 문제**를 20~30분간 각자 풀이 후 공유
 
 ### 📌 제출 규칙
 
+#### 과제
+
 - 본인 폴더에 문제 풀이 업로드
-  - 파일명: `스터디날짜_문제명` → `251202_주몽.java`
-  - 커밋 메시지: `feat: [이름][스터디날짜] 문제명 제출` → `feat: [이가은][251202] 주몽 제출`
-- PR 제목: `[이름][스터디날짜] N주차 제출` → `[이가은][251202] 1주차 제출`
+  - 파일명: `스터디날짜_문제명`
+  - 커밋 메시지: `feat: [이름][스터디날짜] 문제명 제출`
+- PR 제목: `[이름][스터디날짜] N주차 제출`
 - 스터디 당일 **10:59:59까지 제출**
-- 벌금: **5000원**
+
+#### 실전 모의 코테
+
+- `[실전모의코테]/회차/이름` 폴더에 업로드
+  - 파일명: `문제명`
+- 예시
+  ```
+  [실전모의코테]
+  └─ 01회차
+      └─ 박수진
+          ├─ 징검다리.java
+          ├─ 순위.java
+          └─ 프로세스.java
+  ```
+- 커밋 메시지: `feat: [이름][실전모의코테] N회차 제출` (문제별이 아닌 회차 단위로 한 번에 커밋)
+- **목요일 과제 PR에 함께 포함하여 제출**
   <br/>
 
 ---
 
-**☑️ 완료** | ⬜ **미완료**
+## 📊 풀이 기록
 
-| 주차   | 날짜  | 유형                        | 문제                                                                                                       | 완료 |
-| ------ | ----- | --------------------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
-| week01  | 05/05 | 01. 해시                   | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                        | ☑️     |
-|        |       |                             | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                    | ☑️     |
-|        |       |                             | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                            | ☑️     |
-|        |       |                             | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                     | ☑️     |
-|        |       |                             | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                               | ☑️     |
-|        | 05/08 | 02. 정렬                     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                 | ☑️     |
-|        |       |                             | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                               | ☑️     |
-|        |       |                             | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                  | ☑️     |
-| week02 | 05/11 | 03. 완전탐색                 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                             | ☑️     |
-|        |       |                             | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                                | ☑️     |
-|        |       |                             | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                   | ☑️     |
-|        |       |                             | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)      | ☑️     |
-|        | 05/14 |                             | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                 | ☑️     |
-|        |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                     | ☑️     |
-|        |       |                             | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                                 | ☑️     |
-|        |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                      | ☑️     |
-| week03 | 05/18 | 04. 스택/큐                 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                          | ☑️     |
-|        |       |                             | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                               | ☑️     |
-|        |       |                             | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                        | ☑️     |
-|        |       |                             | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)                  | ☑️     |
-|        | 05/21 |                             | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                  | ☑️     |
-|        |       |                             | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                                  | ☑️     |
-|        |       |                             | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                                  | ☑️     |
-|        |       |                             | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124)       | ☑️     |
-| week04 | 05/26 | 05. DFS/BFS                 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                                 | ☑️     |
-|        |       |                             | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                            | ☑️     |
-|        |       |                             | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                               | ☑️     |
-|        |       |                             | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)                           | ☑️     |
-|        | 05/29 |                             | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                                  | ☑️     |
-|        |       |                             | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                                 | ☑️     |
-|        |       |                             | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                                 | ☑️     |
-| week05 | 06/01 | 06. Heap.                   | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                                   | ☑️     |
-|        |       |                             | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)                            | ☑️     |
-|        |       |                             | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)                             | ☑️     |
-|        | 06/04 | 07. 그래프                   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                              | ☑️    |
-|        |       |                             | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)                                      | ☑️     |
-|        |       |                             | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)                                 | ☑️     |
-| week06 | 06/11 | 08. DP                      | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)                                | ⬜     |
-|        |       |                             | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)                                    | ⬜     |
-|        |       |                             | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)                                   | ⬜     |
-|        |       |                             | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                                    | ⬜    |
-|        |       | SQL                         | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)                  | ⬜     |
-|        |       |                             | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)                   | ⬜     |
-|        |       |                             | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)       | ⬜     |
-
-
----
-
-<details>
-<summary>Algorithm-Study.v1</summary>
-  
-### 🕓 스터디 일정
-
-- **월요일 18:30 — 3챕터 (6문제)**
-- **목요일 18:30 — 2챕터 (4문제)**
-
-### 🎤 랜덤 발표
-
-- 월요일: 발표 2회 1명 추첨
-- 목요일: 면제 1명 추첨
-
-### 📌 제출 규칙
-
-- 본인 폴더에 문제 풀이 업로드
-  - 파일명: `스터디날짜_문제명` → `251202_주몽.java`
-  - 커밋 메시지: `feat: [이름][스터디날짜] 문제명 제출` → `feat: [이가은][251202] 주몽 제출`
-- PR 제목: `[이름][스터디날짜] N주차 제출` → `[이가은][251202] 1주차 제출`
-- 스터디 당일 **17:59:59까지 제출**
-  - 스터디 시작 전 팀원이 제출한 코드 미리 읽고 오기
-- 벌칙: ☕ **커피 쏘기**
-  <br/>
-
-## 📚 챕터 목록
-
-<table>
-  <tr>
-    <td>01. 배열</td>
-    <td>02. 문자열</td>
-    <td>03. 리스트 &amp; Hash</td>
-    <td>04. 스택</td>
-  </tr>
-  <tr>
-    <td>05. 큐</td>
-    <td>06. 재귀</td>
-    <td>07. 정렬</td>
-    <td>08. 완전 탐색 알고리즘</td>
-  </tr>
-  <tr>
-    <td>09. 그리디 알고리즘</td>
-    <td>10. 소수</td>
-    <td>11. 최소공배수 &amp; 최대공약수</td>
-    <td>12. 조합과 순열</td>
-  </tr>
-  <tr>
-    <td>13. DFS와 BFS</td>
-    <td>14. 이진 탐색</td>
-    <td>15. 다익스트라</td>
-    <td>16. 최소 신장 트리</td>
-  </tr>
-  <tr>
-    <td>17. 트리</td>
-    <td>18. 동적 계획법</td>
-    <td>19. 백트래킹</td>
-    <td></td>
-  </tr>
-</table>
+<details open>
+<summary><b>📚 과제 풀이 기록</b></summary>
 
 <br/>
 
----
-
 **☑️ 완료** | ⬜ **미완료**
 
-| 주차   | 날짜  | 유형                        | 문제                                                                                                       | 완료 |
-| ------ | ----- | --------------------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
-| 1주차  | 12/2  | 01. 배열                    | [주몽](https://www.acmicpc.net/problem/1940)                                                               | ☑️     |
-|        |       |                             | [프렌즈 블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)                             | ☑️     |
-|        |       | 02. 문자열                  | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                        | ☑️     |
-|        |       |                             | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)                    | ☑️     |
-|        |       | 03. 리스트 & Hash           | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                              | ☑️     |
-|        |       |                             | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                           | ☑️     |
-|        | 12/4  | 04. 스택                    | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)                               | ☑️     |
-|        |       |                             | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                             | ☑️     |
-|        |       | 05. 큐                      | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                      | ☑️     |
-|        |       |                             | [큐2](https://www.acmicpc.net/problem/18258)                                                               | ☑️     |
-| 2주차  | 12/8  | 06. 재귀                    | [재귀의 귀재](https://www.acmicpc.net/problem/25501)                                                       | ☑️     |
-|        |       |                             | [하노이의 탑](https://www.acmicpc.net/problem/11729)                                                       | ☑️     |
-|        |       | 07. 정렬                    | [ATM](https://www.acmicpc.net/problem/11399)                                                               | ☑️     |
-|        |       |                             | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)                             | ☑️     |
-|        |       | 08. 완전 탐색               | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)                                               | ☑️     |
-|        |       |                             | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                               | ☑️     |
-| 3주차  | 12/15 | 09. 그리디                  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                  | ☑️     |
-|        |       |                             | [회의실 배정](https://www.acmicpc.net/problem/1931)                                                        | ☑️     |
-|        |       | 10. 소수                    | [소수](https://www.acmicpc.net/problem/2581)                                                               | ☑️     |
-|        |       |                             | [에라토스테네스의 채](https://www.acmicpc.net/problem/2960)                                                | ☑️     |
-|        |       | 11. 최소공배수 & 최대공약수 | [최소공배수](https://www.acmicpc.net/problem/13241)                                                        | ☑️     |
-|        |       |                             | [최대공약수](https://www.acmicpc.net/problem/1850)                                                         | ☑️     |
-|        |       | 12. 조합과 순열             | [N과 M(1)](https://www.acmicpc.net/problem/15649)                                                          | ☑️     |
-|        |       |                             | [N과 M(3)](https://www.acmicpc.net/problem/15651)                                                          | ☑️     |
-|        |       | 13. DFS & BFS               | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)                                                  | ☑️     |
-|        |       |                             | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                    | ☑️     |
-|        | 12/18 | 14. 이진 탐색               | [기타 레슨](https://www.acmicpc.net/problem/2343)                                                          | ☑️     |
-|        |       |                             | [입국 심사](https://www.acmicpc.net/problem/3079)                                                          | ☑️     |
-|        |       | 15. 다익스트라              | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                                             | ☑️     |
-|        |       |                             | [최소 비용 구하기](https://www.acmicpc.net/problem/1916)                                                   | ☑️     |
-| 4주차  | 12/22 | 01. 배열                    | [구간 합 4](https://www.acmicpc.net/problem/11659)                                                         | ☑️     |
-|        |       |                             | [좋다](https://www.acmicpc.net/problem/1253)                                                               | ☑️     |
-|        |       | 02. 문자열                  | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)                               | ☑️     |
-|        |       |                             | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)                            | ☑️     |
-|        |       | 03. 리스트 & Hash           | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                              | ☑️     |
-|        |       |                             | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)                        | ☑️     |
-| 5주차  | 12/29 | 16. 최소 신장 트리          | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                                                   | ☑️     |
-|        |       |                             | [네트워크 연결](https://www.acmicpc.net/problem/1922)                                                      | ☑️     |
-|        |       | 17. 트리                    | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)                                                  | ☑️     |
-|        |       |                             | [트리](https://www.acmicpc.net/problem/1068)                                                               | ☑️     |
-|        |       | 18. 동적 계획법             | [퇴사](https://www.acmicpc.net/problem/14501)                                                              | ☑️     |
-|        |       |                             | [2xn 타일링 (프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/12900)               | ☑️     |
-|        |       | 19. 백트래킹                | [N-Queen](https://www.acmicpc.net/problem/9663)                                                            | ☑️     |
-|        |       | 04. 스택                    | [제로](https://www.acmicpc.net/problem/10773)                                                              | ☑️     |
-|        |       |                             | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                               | ☑️     |
-| 6주차  | 1/5   | 05. 큐                      | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                               | ☑️     |
-|        |       |                             | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                                 | ☑️     |
-|        |       | 06. 재귀                    | [팩토리얼2](http://acmicpc.net/problem/27433)                                                              | ☑️     |
-|        |       |                             | [피보나치 수5](http://acmicpc.net/problem/10870)                                                           | ☑️     |
-|        |       | 07. 정렬                    | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)             | ☑️     |
-|        |       |                             | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)                             | ☑️     |
-|        |       | 08. 완전 탐색               | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                                | ☑️     |
-|        |       |                             | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                    | ☑️     |
-|        |       | 09. 그리디                  | [동전 0](https://www.acmicpc.net/problem/11047)                                                            | ☑️     |
-|        |       |                             | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                                                      | ☑️     |
-|        | 1/8   | 10. 소수                    | [암호제작](https://www.acmicpc.net/problem/1837)                                                           | ☑️     |
-|        |       | 11. 최소공배수              | [최소 공배수](https://www.acmicpc.net/problem/1934)                                                        | ☑️     |
-|        |       |                             | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                                            | ☑️     |
-| 7주차  | 1/15  | 12. 조합과 순열             | [N과 M(2)](https://www.acmicpc.net/problem/15650)                                                          | ☑️     |
-|        |       |                             | [N과 M(4)](https://www.acmicpc.net/problem/15652)                                                          | ☑️     |
-|        |       | 13. DFS와 BFS               | [ABCDE](https://www.acmicpc.net/problem/13023)                                                             | ☑️     |
-|        |       |                             | [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                        | ☑️     |
-|        |       | 14. 이진 탐색               | [수 찾기](https://www.acmicpc.net/problem/1920)                                                            | ☑️     |
-|        |       |                             | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                               | ☑️     |
-|        |       | 15. 다익스트라              | [최단 경로](https://www.acmicpc.net/problem/1753)                                                          | ☑️     |
-|        |       |                             | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)                                    | ☑️     |
-|        |       | 16. 최소 신장 트리          | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                                                   | ☑️     |
-|        |       |                             | [네트워크 연결](https://www.acmicpc.net/problem/1922)                                                      | ☑️     |
-| 8주차  | 1/19  | 17. 트리                    | [트리](https://www.acmicpc.net/problem/1068)                                                               | ☑️     |
-|        |       | 18. 동적 계획법             | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)                                                       | ☑️     |
-|        | 1/22  | 19. 백트래킹                | [N-Queen](https://www.acmicpc.net/problem/9663)                                                            | ☑️     |
-|        |       | 모의고사                    | [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)                       | ☑️     |
-| 9주차  | 2/6   | 이진 탐색                   | [게임](https://www.acmicpc.net/problem/1072)                                                               | ☑️     |
-|        |       | 모의고사                    | [실습용 로봇](https://school.programmers.co.kr/learn/courses/15009/lessons/121687)                         | ☑️     |
-| 10주차 | 2/9   | 이진 탐색                   | 1. [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)                             | ☑️     |
-|        |       | 모의고사                    | 2. [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)           | ☑️     |
-|        | 2/12  | 이진 탐색                   | 3. [공유기 설치](https://www.acmicpc.net/problem/2110)                                                     | ☑️     |
-|        |       | 모의고사                    | 4. [신입사원 교육](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)                    | ☑️     |
-| 11주차 | 2/19  |                             | 5. [에디터](https://www.acmicpc.net/problem/1406)                                                          | ☑️     |
-|        |       |                             | 6. [나무 자르기](https://www.acmicpc.net/problem/2805)                                                     | ☑️     |
-|        |       |                             | 7. [영화감독 숌 2](https://www.acmicpc.net/problem/27438)                                                  | ☑️     |
-|        |       |                             | 8. [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                           | ☑️     |
-|        |       |                             | 9. [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                              | ☑️     |
-| 12주차 | 2/23  |                             | 10. [두 수의 합](https://www.acmicpc.net/problem/3273)                                                     | ☑️     |
-|        |       |                             | 11. [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                           | ☑️     |
-|        |       |                             | 12. [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                           | ☑️     |
-|        | 2/26  |                             | 13. [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                         | ☑️     |
-|        |       |                             | 14. [알파벳](https://www.acmicpc.net/problem/1987)                                                         | ☑️     |
-|        |       |                             | 15. [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                         | ☑️     |
-| 13주차 | 3/3   |                             | 16. 프로그래밍1 : 몫 = 나머지                                                                              | ☑️     |
-|        |       |                             | 17. 프로그래밍2 : 식 조작                                                                                  | ☑️     |
-|        |       |                             | 18. 주식 구매                                                                                              | ☑️     |
-|        |       |                             | SQL1: 버그에 영향을 받은 레코드                                                                            | ☑️     |
-|        |       |                             | SQL2: 지점별 월급을 가장 많이 받는 사람                                                                    | ☑️     |
-|        | 3/5   |                             | 19. 프로그래밍3: 여러 디스크에 저장된 데이터                                                               | ☑️     |
-|        |       |                             | 20. 프로그래밍1: 스팸 경고 출력                                                                            | ☑️     |
-|        |       |                             | SQL1: 5만원 이상 결제한 내역                                                                               | ☑️     |
-| 14주차 | 3/12  |                             | 21. [숫자 야구](https://www.acmicpc.net/problem/2503)                                                      | ☑️     |
-|        |       |                             | 22. [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)                            | ☑️     |
-| 15주차 | 3/16  |                             | 23. [미친 로봇](https://www.acmicpc.net/problem/1405)                                                      | ☑️     |
-|        |       |                             | 24. [블랙잭](https://www.acmicpc.net/problem/2798)                                                         | ☑️     |
-|        |       |                             | 25. [두 동전](https://www.acmicpc.net/problem/16197)                                                       | ☑️     |
-|        | 3/19  |                             | 26. 최소 발전량                                                                                            | ☑️     |
-|        |       |                             | 27. [연구소](https://www.acmicpc.net/problem/14502)                                                        | ☑️     |
-| 16주차 | 3/26  |                             | 28. 주식 차트의 상봉과 하봉                                                                                | ☑️     |
-|        |       |                             | 29. [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)                               | ☑️     |
-|        |       |                             | 30. [아기 상어](https://www.acmicpc.net/problem/16236)                                                     | ☑️     |
-| 17주차 | 3/30  |                             | 31. [치킨 배달](https://www.acmicpc.net/problem/15686)                                                     | ☑️     |
-|        |       |                             | 32. [토마토](https://www.acmicpc.net/problem/7569)                                                         | ☑️     |
-|        | 4/2   |                             | 33. 미음 모양 판별하기                                                                                     | ☑️     |
-|        |       |                             | 34. [안전 영역](https://www.acmicpc.net/problem/2468)                                                      | ☑️     |
-| 18주차 | 4/7   |                             | 35. [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                                             | ☑️     |
-|        |       |                             | 36. [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)                                         | ☑️     |
-|        | 4/9   |                             | 37. [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936?language=java) | ⬜     |
-|        |       |                             | 38. [스타트링크](https://www.acmicpc.net/problem/5014)                                                     | ⬜     |
+| 주차   | 날짜  | 유형         | 문제                                                                                                      | 완료 |
+| ------ | ----- | ------------ | --------------------------------------------------------------------------------------------------------- | ---- |
+| week01 | 05/05 | 01. 해시     | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                     | ☑️   |
+|        |       |              | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                                  | ☑️   |
+|        |       |              | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                          | ☑️   |
+|        |       |              | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                                   | ☑️   |
+|        |       |              | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)                             | ☑️   |
+|        | 05/08 | 02. 정렬     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                | ☑️   |
+|        |       |              | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                             | ☑️   |
+|        |       |              | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                | ☑️   |
+| week02 | 05/11 | 03. 완전탐색 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                           | ☑️   |
+|        |       |              | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                              | ☑️   |
+|        |       |              | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                 | ☑️   |
+|        |       |              | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)   | ☑️   |
+|        | 05/14 |              | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                               | ☑️   |
+|        |       |              | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                   | ☑️   |
+|        |       |              | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                               | ☑️   |
+|        |       |              | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                   | ☑️   |
+| week03 | 05/18 | 04. 스택/큐  | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                       | ☑️   |
+|        |       |              | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                            | ☑️   |
+|        |       |              | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                     | ☑️   |
+|        |       |              | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)          | ☑️   |
+|        | 05/21 |              | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                               | ☑️   |
+|        |       |              | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                               | ☑️   |
+|        |       |              | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                               | ☑️   |
+|        |       |              | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | ☑️   |
+| week04 | 05/26 | 05. DFS/BFS  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                              | ☑️   |
+|        |       |              | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                        | ☑️   |
+|        |       |              | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)                            | ☑️   |
+|        |       |              | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)                       | ☑️   |
+|        | 05/29 |              | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                               | ☑️   |
+|        |       |              | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)                              | ☑️   |
+|        |       |              | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                              | ☑️   |
+| week05 | 06/01 | 06. Heap.    | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)                                | ☑️   |
+|        |       |              | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)                        | ☑️   |
+|        |       |              | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)                         | ☑️   |
+|        | 06/04 | 07. 그래프   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                           | ☑️   |
+|        |       |              | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)                                   | ☑️   |
+|        |       |              | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)                              | ☑️   |
+| week06 | 06/11 | 08. DP       | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)                             | ⬜   |
+|        |       |              | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)                                 | ⬜   |
+|        |       |              | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)                                | ⬜   |
+|        |       |              | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                                 | ⬜   |
+|        |       | SQL          | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)              | ⬜   |
+|        |       |              | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)               | ⬜   |
+|        |       |              | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)  | ⬜   |
 
 </details>
 
+<details>
+<summary><b>🎯 실전 모의 코테 기록</b></summary>
+
+<br/>
+
+**☑️ 완료** | ⬜ **미완료**
+
+| 회차   | 날짜 | 문제 | 완료 |
+| ------ | ---- | ---- | ---- |
+| 01회차 |      |      | ⬜   |
+
+</details>
+
+---
+
+### 🗂️ 이전 기록
+
+- **[Algorithm-Study v1 (아카이브)](./Algorithm-Study-v1.md)** — 챕터 기반 스터디 (1~18주차)
