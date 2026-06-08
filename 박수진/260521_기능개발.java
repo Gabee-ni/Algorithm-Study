@@ -1,4 +1,4 @@
-public import java.util.*;
+import java.util.*;
 
 class Solution {
     public int[] solution(int[] progresses, int[] speeds) {
