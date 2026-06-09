@@ -14,7 +14,7 @@ class Solution {
         
         // Case 1 : 첫 집 선택
         dp1[0] = money[0];
-        dp1[1] = Math.max(money[0], money[1]);
+        dp1[1] = money[0];
         
         for (int i = 2; i < n - 1; i++) {
             dp1[i] = Math.max(
