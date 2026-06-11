@@ -69,10 +69,10 @@
 |        | 05/08 | 02. 정렬     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                | ☑️   |
 |        |       |              | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                             | ☑️   |
 |        |       |              | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                | ☑️   |
-| week02 | 05/11 | 03. 완전탐색 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                           | ☑️   |
+| week02 | 05/11 | 03. 완전탐색 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                            | ☑️   |
 |        |       |              | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                              | ☑️   |
 |        |       |              | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                 | ☑️   |
-|        |       |              | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)   | ☑️   |
+|        |       |              | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)    | ☑️   |
 |        | 05/14 |              | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                               | ☑️   |
 |        |       |              | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                   | ☑️   |
 |        |       |              | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                               | ☑️   |
@@ -98,13 +98,20 @@
 |        | 06/04 | 07. 그래프   | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                           | ☑️   |
 |        |       |              | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)                                   | ☑️   |
 |        |       |              | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)                              | ☑️   |
-| week06 | 06/11 | 08. DP       | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)                             | ⬜   |
-|        |       |              | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)                                 | ⬜   |
-|        |       |              | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)                                | ⬜   |
-|        |       |              | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                                 | ⬜   |
-|        |       | SQL          | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)              | ⬜   |
-|        |       |              | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)               | ⬜   |
-|        |       |              | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)  | ⬜   |
+| week06 | 06/11 | 08. DP       | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)                             | ☑️   |
+|        |       |              | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)                                 | ☑️   |
+|        |       |              | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)                                | ☑️   |
+|        |       |              | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                                 | ☑️   |
+|        |       | SQL          | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)              | ☑️   |
+|        |       |              | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)               | ☑️   |
+|        |       |              | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)   | ☑️   |
+| week07 | 06/18 | 09. 그리디   | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                               | ⬜   |
+|        |       |              | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)                           | ⬜   |
+|        |       |              | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                             | ⬜   |
+|        |       |              | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                 | ⬜   |
+|        |       |              | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                            | ⬜   |
+|        |       | SQL          | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)                       | ⬜   |
+|        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)       | ⬜   |
 
 </details>
 
@@ -113,11 +120,12 @@
 
 <br/>
 
-**☑️ 완료** | ⬜ **미완료**
-
-| 회차   | 날짜 | 문제 | 완료 |
-| ------ | ---- | ---- | ---- |
-| 01회차 |      |      | ⬜   |
+| 회차   | 날짜 | 문제 |
+| ------ | ---- | ---- |
+| 01회차 | 06/08 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)     |
+|        |       | [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)      | 
+| 02회차 | 06/11 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     |
+|        |       | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)     |
 
 </details>
 
