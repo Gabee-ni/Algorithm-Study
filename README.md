@@ -105,13 +105,20 @@
 |        |       | SQL          | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)              | ☑️   |
 |        |       |              | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)               | ☑️   |
 |        |       |              | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)   | ☑️   |
-| week07 | 06/18 | 09. 그리디   | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                               | ⬜   |
-|        |       |              | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)                           | ⬜   |
-|        |       |              | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                             | ⬜   |
-|        |       |              | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                 | ⬜   |
-|        |       |              | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                            | ⬜   |
-|        |       | SQL          | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)                       | ⬜   |
-|        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)       | ⬜   |
+| week07 | 06/18 | 09. 그리디   | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                               | ☑️   |
+|        |       |              | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)                           | ☑️   |
+|        |       |              | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                             | ☑️   |
+|        |       |              | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                 | ☑️   |
+|        |       |              | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                            | ☑️   |
+|        |       | SQL          | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)                       | ☑️   |
+|        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)         | ☑️   |
+| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                          | ⬜   |
+|        |       |              | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                             | ⬜   |
+|        |       |              | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                              | ⬜   |
+|        |       |              | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                              | ⬜   |
+|        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                  | ⬜   |
+|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)        | ⬜   |
+|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)            | ⬜   |
 
 </details>
 
