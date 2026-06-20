@@ -112,7 +112,7 @@
 |        |       |              | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                            | ☑️   |
 |        |       | SQL          | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)                       | ☑️   |
 |        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)         | ☑️   |
-| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                          | ⬜   |
+| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                          | ⬜   |
 |        |       |              | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                             | ⬜   |
 |        |       |              | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                              | ⬜   |
 |        |       |              | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                              | ⬜   |
