@@ -69,10 +69,10 @@
 |        | 05/08 | 02. 정렬     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                                | ☑️   |
 |        |       |              | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                             | ☑️   |
 |        |       |              | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                                | ☑️   |
-| week02 | 05/11 | 03. 완전탐색 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                            | ☑️   |
+| week02 | 05/11 | 03. 완전탐색 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                           | ☑️   |
 |        |       |              | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                              | ☑️   |
 |        |       |              | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                 | ☑️   |
-|        |       |              | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)    | ☑️   |
+|        |       |              | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)   | ☑️   |
 |        | 05/14 |              | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                               | ☑️   |
 |        |       |              | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                   | ☑️   |
 |        |       |              | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                               | ☑️   |
@@ -104,21 +104,21 @@
 |        |       |              | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                                 | ☑️   |
 |        |       | SQL          | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261)              | ☑️   |
 |        |       |              | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)               | ☑️   |
-|        |       |              | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)   | ☑️   |
+|        |       |              | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)  | ☑️   |
 | week07 | 06/18 | 09. 그리디   | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                               | ☑️   |
 |        |       |              | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)                           | ☑️   |
 |        |       |              | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                             | ☑️   |
 |        |       |              | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                 | ☑️   |
 |        |       |              | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                            | ☑️   |
 |        |       | SQL          | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)                       | ☑️   |
-|        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)         | ☑️   |
-| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                          | ⬜   |
+|        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)       | ☑️   |
+| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                         | ⬜   |
 |        |       |              | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                             | ⬜   |
 |        |       |              | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                              | ⬜   |
 |        |       |              | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                              | ⬜   |
-|        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                  | ⬜   |
-|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)        | ⬜   |
-|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)            | ⬜   |
+|        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                   | ⬜   |
+|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)       | ⬜   |
+|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)           | ⬜   |
 
 </details>
 
@@ -127,12 +127,18 @@
 
 <br/>
 
-| 회차   | 날짜 | 문제 |
-| ------ | ---- | ---- |
-| 01회차 | 06/08 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)     |
-|        |       | [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)      | 
-| 02회차 | 06/11 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)     |
-|        |       | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)     |
+| 회차   | 날짜  | 문제                                                                                       |
+| ------ | ----- | ------------------------------------------------------------------------------------------ |
+| 01회차 | 06/08 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)              |
+|        |       | [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)               |
+| 02회차 | 06/11 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)             |
+|        |       | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |
+| 03회차 | 06/15 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                    |
+|        |       | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)             |
+|        |       | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)        |
+| 04회차 | 06/22 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)                |
+|        |       | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   |
+|        |       | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         |
 
 </details>
 
