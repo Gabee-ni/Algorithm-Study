@@ -112,13 +112,20 @@
 |        |       |              | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                            | ☑️   |
 |        |       | SQL          | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)                       | ☑️   |
 |        |       |              | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)       | ☑️   |
-| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                         | ⬜   |
-|        |       |              | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                             | ⬜   |
-|        |       |              | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                              | ⬜   |
-|        |       |              | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                              | ⬜   |
-|        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                   | ⬜   |
-|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)       | ⬜   |
-|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)           | ⬜   |
+| week08 | 06/25 | 10. 해시     | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                         | ☑️   |
+|        |       |              | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                             | ☑️   |
+|        |       |              | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                              | ☑️   |
+|        |       |              | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                              | ☑️   |
+|        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                   | ☑️   |
+|        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)       | ☑️   |
+|        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)           | ☑️   |
+| week08 | 06/25 | 11. 완전탐색  | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                         | ⬜   |
+|        |       |              | [원 모양으로 되어있는 방 설명](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-a-room-in-a-circle/description)                             | ⬜   |
+|        |       |              | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                              | ⬜   |
+|        |       |              | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)                              | ⬜   |
+|        |       |              | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)                                   | ⬜   |
+|        |       | SQL          | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)       | ⬜   |
+|        |       |              | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305)           | ⬜   |
 
 </details>
 
@@ -139,6 +146,8 @@
 | 04회차 | 06/22 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)                |
 |        |       | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   |
 |        |       | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         |
+| 05회차 | 06/25 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)                |
+|        |       | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)   |
 
 </details>
 
