@@ -119,7 +119,7 @@
 |        |       |              | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)                                   | ☑️   |
 |        |       | SQL          | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518)       | ☑️   |
 |        |       |              | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)           | ☑️   |
-| week08 | 06/25 | 11. 완전탐색  | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                         | ⬜   |
+| week09 | 06/25 | 11. 완전탐색  | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)                         | ⬜   |
 |        |       |              | [원 모양으로 되어있는 방 설명](https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-a-room-in-a-circle/description)                             | ⬜   |
 |        |       |              | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                              | ⬜   |
 |        |       |              | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)                              | ⬜   |
